@@ -1,8 +1,7 @@
-/* {
+ {
   margin: 0;
   padding: 0;
 }
-*/
 
 header {
   padding-bottom: 3em;
@@ -41,8 +40,8 @@ p {
 }
 
 img {
-    border: 1px solid #f3f3f3;
-    padding: 1em;
+  border: 1px solid #f3f3f3;
+  padding: 1em;
 }
 
 main {
@@ -112,11 +111,11 @@ li {
 }
 
 li a {
-    display: block;
-    width: 100px;
-    padding: 10px 10px;
-    text-decoration: none;
-    color: #666;
+  display: block;
+  width: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  color: #666;
   }
 
 li:last-child {
@@ -150,8 +149,8 @@ footer {
 }
 
 .active {
-    background-color: #B1571A;
-    color: white;
+  background-color: #B1571A;
+  color: white;
 }
 
 .parent {
@@ -159,5 +158,5 @@ footer {
 }
 
 a:hover {
-    color: #B1571A;
+  color: #B1571A;
 }
