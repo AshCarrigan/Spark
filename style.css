@@ -73,7 +73,7 @@ section {
 }
 
 article {
-  flow: inline;
+  flow: inline-block;
   border: 1px solid #e7e7e7;
   margin: auto;
   width: 30%;
@@ -107,7 +107,7 @@ ul {
 }
 
 li {
-  display: inline;
+  display: inline-block;
   border-right: 1px solid #B1571A;
 }
 
